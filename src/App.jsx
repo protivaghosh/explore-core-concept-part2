@@ -2,7 +2,7 @@ import Counter from './counter';
 import './App.css'
 import Team from './team';
 import Users from './users';
-import Friends from './Friends';
+import Friends from './friends';
 
 function App() {
 function HandleClick(){
